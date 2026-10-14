@@ -12,7 +12,7 @@
 
 
 ### 생김새
-![모란앵무 사진](https://github.com/사용자이름/저장소이름/raw/main/lovebird.png)
+![모란앵무 사진](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD0Hszl6bRrqnqNpWurPiGWYvtprZWBz68cbXGhi7fSYaA6mjYr9t5219UkZjzfsZMiavYPE_Pwv4GnKdzvlDCl17sh_-DHKw4xPR2gcbW&s=10)
 - **크기:** 성조 기준 약 13cm ~ 16cm 안팎의 소형 앵무새입니다.
 - **몸무게:** 약 45g ~ 60g 사이로 체구에 비해 다소 묵직한 체형을 가집니다.
 - **외형적 특징:** 
